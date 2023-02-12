@@ -1,0 +1,3344 @@
+[
+  {
+    "category_name": "LIVE",
+    "order_id": 1,
+    "channels": [
+      {
+        "id": 19779,
+        "program_name": "TOFFEE Sports",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
+        "video_share_url": "https://toffeelive.com/watch/3d6a74604883d68d7b29ee79453308a5",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/19779/logo/196x110/web_logo_599173001712122349.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/19779/logo/1600x450/poster_url_web_997376001715658205.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-01-19 15:07:23",
+        "lcn": 125,
+        "individual_price": "0",
+        "video_tags": "TOFFEE | Sports",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 206,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/19779/logo/1280x720/landscape_original_poster_541296001725875739.png",
+        "feature_image": "https://images.toffeelive.com/images/program/19779/logo/1080x422/feature_image_980349001712122287.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sports_highlights/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "",
+        "drm_hls_url": "",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:00:00",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sports_live_3_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Sports_Watchers",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 47752839,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 30,
+        "category_name": "LIVE",
+        "category_order_index": 2,
+        "patch_order_index": 1
+      },
+      {
+        "id": 2708,
+        "program_name": "TOFFEE Movies",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
+        "video_share_url": "https://toffeelive.com/watch/c890c8f212325b2b36b1608d3ddcfca2",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/2708/logo/196x110/web_logo_730119001687255106.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/2708/logo/1600x450/poster_url_web_293910001689506042.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2021-02-24 16:07:29",
+        "lcn": 127,
+        "individual_price": "0",
+        "video_tags": "Toffee Movies| toffee movies | movies",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 1451,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/2708/logo/1280x720/landscape_original_poster_021730001725875728.png",
+        "feature_image": "https://images.toffeelive.com/images/program/2708/logo/1080x422/feature_image_623451001684477466.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-06/live-origin/smil:sports_live_01.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-06/live-origin/smil:sports_live_01.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sports_live_01_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sports_live_01_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sports_live_01_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 425642645,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 30,
+        "category_name": "LIVE",
+        "category_order_index": 3,
+        "patch_order_index": 1
+      },
+      {
+        "id": 44878,
+        "program_name": "TOFFEE Dramas",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",
+        "video_share_url": "https://toffeelive.com/watch/ca433b4bd9c993448f6a3c7c6092c0ad",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/44878/logo/196x110/web_logo_717715001687255277.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/44878/logo/1600x450/poster_url_web_630488001727359149.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-05-22 17:43:23",
+        "lcn": 126,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 84,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/44878/logo/1280x720/landscape_original_poster_492212001725875752.png",
+        "feature_image": "https://images.toffeelive.com/images/program/44878/logo/1080x422/feature_image_466897001684755991.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/toffee_drama/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:toffee_drama.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:toffee_drama.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 17345674,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 30,
+        "category_name": "LIVE",
+        "category_order_index": 4,
+        "patch_order_index": 1
+      }
+    ]
+  },
+  {
+    "category_name": "International News",
+    "order_id": 2,
+    "channels": [
+      {
+        "id": 333,
+        "program_name": "CNN",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_240535001731487107.png",
+        "video_share_url": "https://toffeelive.com/watch/2435a45b85628172c5a47122144a7c67",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/333/logo/196x110/web_logo_975193001676354213.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/333/logo/825x300/web_poster_803127001514115175.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-24 17:30:38",
+        "lcn": 116,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 5,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/333/logo/1280x720/landscape_original_poster_857320001731487146.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/cnn/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:cnn/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:cnn.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, News_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 2754327,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068643&KeyName=prod_linear&Signature=EnhdGSu4By6BtKQCNbVMgX1pFat2ChUQHRNm-N2TtCz2euaGAGNny31LhiYd8fYHDXFeUU9Tb4Kkj1tgUfPGDA",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 26,
+        "category_name": "International News",
+        "category_order_index": 1,
+        "patch_order_index": 2
+      }
+    ]
+  },
+  {
+    "category_name": "Sports",
+    "order_id": 3,
+    "channels": [
+      {
+        "id": 4388,
+        "program_name": "Euro Sport HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
+        "video_share_url": "https://toffeelive.com/watch/be6aa32a50ba3c6b2d181b3c1e4ac12b",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/4388/logo/196x110/web_logo_820269001629713624.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/4388/logo/825x300/web_poster_255094001629713626.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2021-08-23 14:34:34",
+        "lcn": 121,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 5,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/4388/logo/1280x720/landscape_original_poster_189626001629713623.png",
+        "feature_image": "https://images.toffeelive.com/images/program/4388/logo/1080x422/feature_image_025708001629713624.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:euro_sports_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:euro_sports_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "euro_sport_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 14590125,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 2,
+        "category_name": "Sports",
+        "category_order_index": 1,
+        "patch_order_index": 3
+      },
+      {
+        "id": 603,
+        "program_name": "SONY SPORTS TEN 1 HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
+        "video_share_url": "https://toffeelive.com/watch/c4007b19e06da78a3239a44be37bcf76",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/603/logo/196x110/web_logo_767131001567842812.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/603/logo/1600x450/poster_url_web_752913001734285697.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-07 12:08:55",
+        "lcn": 106,
+        "individual_price": "0",
+        "video_tags": "SONY SPORTS TEN 1 HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 265,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/603/logo/1280x720/landscape_original_poster_739841001666780614.png",
+        "feature_image": "https://images.toffeelive.com/images/program/603/logo/1080x422/feature_image_484082001639399596.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_ten1_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_ten1_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_ten1_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Sports_Watchers, Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 292276721,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 2,
+        "category_name": "Sports",
+        "category_order_index": 2,
+        "patch_order_index": 3
+      },
+      {
+        "id": 604,
+        "program_name": "SONY SPORTS TEN 2 HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+        "video_share_url": "https://toffeelive.com/watch/2907850d827f820b2f39dc29ed3dfa96",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/604/logo/196x110/web_logo_915194001687065095.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/604/logo/1600x450/poster_url_web_236337001734835551.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-07 12:12:36",
+        "lcn": 102,
+        "individual_price": "0",
+        "video_tags": "SONY SPORTS TEN 2 HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 456,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/604/logo/1280x720/landscape_original_poster_461690001687065095.png",
+        "feature_image": "https://images.toffeelive.com/images/program/604/logo/1080x422/feature_image_184752001652270600.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_ten2_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_ten2_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_ten2_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Sports_Watchers, Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 308797571,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:17:49",
+        "sign_cookie_expire": "2024-12-25 01:17:49",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068358&KeyName=prod_linear&Signature=go-D6UE3JRVhpmLsmZZguBl3wq-6rT_NVhalgBuxNNAgGB0myHpClVj8GuaXASjtHSTxVUqwhB3cf445XxQaAQ",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735067869:KeyName=prod_linear:Signature=OKBW_3RK08OilWF6A5fyfQAXtD2iCtx-IbNqzcK8MsnCMJjGvYqJbjNMOnzyNGlKzNUqYfQXgasjW-eH5GCTDA",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 2,
+        "category_name": "Sports",
+        "category_order_index": 3,
+        "patch_order_index": 3
+      },
+      {
+        "id": 606,
+        "program_name": "SONY SPORTS TEN 5 HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+        "video_share_url": "https://toffeelive.com/watch/2c650e4449bd724407c4fc4d14f96074",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/606/logo/196x110/web_logo_329733001687064803.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/606/logo/1600x450/poster_url_web_832902001734405054.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-07 12:16:45",
+        "lcn": 107,
+        "individual_price": "0",
+        "video_tags": "SONY SPORTS TEN 5 HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 322,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/606/logo/1280x720/landscape_original_poster_214631001687064802.png",
+        "feature_image": "https://images.toffeelive.com/images/program/606/logo/1080x422/feature_image_249892001672145763.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_six_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_six_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_six_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Sports_Watchers, Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 317741190,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 2,
+        "category_name": "Sports",
+        "category_order_index": 5,
+        "patch_order_index": 3
+      }
+    ]
+  },
+  {
+    "category_name": "Kids",
+    "order_id": 4,
+    "channels": [
+      {
+        "id": 26942,
+        "program_name": "Cartoon Network HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
+        "video_share_url": "https://toffeelive.com/watch/206c4648be961eef61150db0bfa8e760",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/26942/logo/196x110/web_logo_937361001678950414.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/26942/logo/825x300/web_poster_414107001678950416.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-03-16 10:59:11",
+        "lcn": 122,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 15,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/26942/logo/1280x720/landscape_original_poster_753343001678950413.png",
+        "feature_image": "https://images.toffeelive.com/images/program/26942/logo/1080x422/feature_image_486327001678950414.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:cartoon_network_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:cartoon_network_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "cartoon_network_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Kids_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 9127546,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068597&KeyName=prod_linear&Signature=Q-mOWdLMjCL9yr9_F5ZCXk1QJwkgfuqxrAUwB_hwpJU6GOf4mA1ajGY-9ftbZaKTU4Gym_PaeAldMYPA00bvAw",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 18,
+        "category_name": "Kids",
+        "category_order_index": 1,
+        "patch_order_index": 4
+      },
+      {
+        "id": 27232,
+        "program_name": "Cartoon Network",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
+        "video_share_url": "https://toffeelive.com/watch/8be5e3f6156a6b2108a2d8b9cc5d5d7c",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/27232/logo/196x110/web_logo_447574001679200496.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/27232/logo/825x300/web_poster_943485001679200497.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-03-19 10:34:55",
+        "lcn": 112,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 19,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/27232/logo/1280x720/landscape_original_poster_695658001679200495.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:cartoon_network_sd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:cartoon_network_sd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "cartoon_network_sd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Kids_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 11905000,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 18,
+        "category_name": "Kids",
+        "category_order_index": 2,
+        "patch_order_index": 4
+      },
+      {
+        "id": 27159,
+        "program_name": "Pogo",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",
+        "video_share_url": "https://toffeelive.com/watch/380604adf810ed21758d200cdf0d4077",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/27159/logo/196x110/web_logo_580984001679136248.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/27159/logo/825x300/web_poster_566864001679136250.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-03-18 16:44:07",
+        "lcn": 124,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 19,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/27159/logo/1280x720/landscape_original_poster_632454001679136247.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:pogo_sd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-03/live-origin/smil:pogo_sd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "pogo_tv_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Kids_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 8734716,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068597&KeyName=prod_linear&Signature=Q-mOWdLMjCL9yr9_F5ZCXk1QJwkgfuqxrAUwB_hwpJU6GOf4mA1ajGY-9ftbZaKTU4Gym_PaeAldMYPA00bvAw",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 18,
+        "category_name": "Kids",
+        "category_order_index": 3,
+        "patch_order_index": 4
+      },
+      {
+        "id": 611,
+        "program_name": "Discovery Kids",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",
+        "video_share_url": "https://toffeelive.com/watch/1fe9c922cfa1b46aad0e3daadf550c24",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/611/logo/196x110/web_logo_921774001673177713.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/611/logo/825x300/web_poster_367348001673177715.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-16 16:50:53",
+        "lcn": 132,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 65,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/611/logo/1280x720/landscape_original_poster_973900001673177712.png",
+        "feature_image": "https://images.toffeelive.com/images/program/611/logo/1080x422/feature_image_546086001673177713.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_kids.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_kids.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_kids_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Kids_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 29475810,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 18,
+        "category_name": "Kids",
+        "category_order_index": 4,
+        "patch_order_index": 4
+      },
+      {
+        "id": 612,
+        "program_name": "SONY YAY",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
+        "video_share_url": "https://toffeelive.com/watch/1165948c063a887eaf4dcb354b300cc0",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/612/logo/196x110/web_logo_006050001568632022.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/612/logo/825x300/web_poster_877022001568632023.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-16 17:03:01",
+        "lcn": 110,
+        "individual_price": "0",
+        "video_tags": "SONY YAY",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 248,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/612/logo/1280x720/landscape_original_poster_299950001666784791.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_yay.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_yay.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_yay_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-09/live-origin/amlst:sony_yay_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_yay_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Kids_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 70820268,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 18,
+        "category_name": "Kids",
+        "category_order_index": 5,
+        "patch_order_index": 4
+      }
+    ]
+  },
+  {
+    "category_name": "Entertainment Channels",
+    "order_id": 5,
+    "channels": [
+      {
+        "id": 343,
+        "program_name": "Sony Aat",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
+        "video_share_url": "https://toffeelive.com/watch/707e46017f6e9b4dcda37a761efbda57",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/343/logo/196x110/web_logo_953680001514283936.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/343/logo/1600x450/poster_url_web_628287001734835461.png",
+        "description": "PHA+Jm5ic3A7PHN0cm9uZz48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTEuMzMzM3B4OyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDExLjMzMzNweDsiPkNvbnRlbnQgUmlnaHRzIFJlc2VydmVkIGJ5IFRPRkZFRTwvc3Bhbj48L3N0cm9uZz48L3A+",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-26 16:25:36",
+        "lcn": 103,
+        "individual_price": "0",
+        "video_tags": "Sony Aat",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 566,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/343/logo/1280x720/landscape_original_poster_017669001666780265.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_aath.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_aath.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_aath_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_aath_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_aath_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Indian_Bangla_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 235965055,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 31,
+        "category_name": "Entertainment Channels",
+        "category_order_index": 1,
+        "patch_order_index": 5
+      },
+      {
+        "id": 602,
+        "program_name": "SONY ENTERTAINMENT TELEVISION HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png",
+        "video_share_url": "https://toffeelive.com/watch/ceeba9e62b8b32b561f56ec10859ff1a",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/602/logo/196x110/web_logo_760020001567838630.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/602/logo/1600x450/poster_url_web_226991001734718106.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-07 12:07:08",
+        "lcn": 111,
+        "individual_price": "0",
+        "video_tags": "SONY ENTERTAINMENT TELEVISION HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 115,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/602/logo/1280x720/landscape_original_poster_644524001666780463.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_entertainmnt_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_entertainmnt_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_entertainmnt_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_entertainmnt_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_entertainmnt_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 87802009,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:17:49",
+        "sign_cookie_expire": "2024-12-25 01:17:49",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068358&KeyName=prod_linear&Signature=go-D6UE3JRVhpmLsmZZguBl3wq-6rT_NVhalgBuxNNAgGB0myHpClVj8GuaXASjtHSTxVUqwhB3cf445XxQaAQ",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735067869:KeyName=prod_linear:Signature=OKBW_3RK08OilWF6A5fyfQAXtD2iCtx-IbNqzcK8MsnCMJjGvYqJbjNMOnzyNGlKzNUqYfQXgasjW-eH5GCTDA",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 31,
+        "category_name": "Entertainment Channels",
+        "category_order_index": 2,
+        "patch_order_index": 5
+      },
+      {
+        "id": 57,
+        "program_name": "SONY ENTERTAINMENT TELEVISION",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
+        "video_share_url": "https://toffeelive.com/watch/b872ee85433cf7d606ec2fe3507ef0fe",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/57/logo/196x110/web_logo_323173001483519212.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/57/logo/1600x450/poster_url_web_042507001723432576.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2016-12-09 22:53:04",
+        "lcn": 117,
+        "individual_price": "0",
+        "video_tags": "SONY ENTERTAINMENT TELEVISION",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 40,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/57/logo/1280x720/landscape_original_poster_512794001666780373.png",
+        "feature_image": "https://images.toffeelive.com/images/program/57/logo/1080x422/feature_image_190486001629876201.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_entertainment.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_entertainment.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_entertainment_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_entertainment_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_entertainment_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 48744589,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 31,
+        "category_name": "Entertainment Channels",
+        "category_order_index": 3,
+        "patch_order_index": 5
+      },
+      {
+        "id": 367,
+        "program_name": "B4U Music",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
+        "video_share_url": "https://toffeelive.com/watch/6f73ec07e38ea73e6a8c1851a4079aa2",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/367/logo/196x110/web_logo_359657001563629876.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/367/logo/1600x450/poster_url_web_583808001723432073.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-04-04 19:30:22",
+        "lcn": 114,
+        "individual_price": "0",
+        "video_tags": "TOFFEE | Music",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 33,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/images/program/367/logo/800x1200/potrait_original_poster_149640001563629906.png",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/367/logo/1280x720/landscape_original_poster_596295001664253129.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/b4umusic/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:b4umusic.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:b4umusic.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "b4uMusic_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 23173608,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 31,
+        "category_name": "Entertainment Channels",
+        "category_order_index": 4,
+        "patch_order_index": 5
+      },
+      {
+        "id": 2420,
+        "program_name": "SONY SAB HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
+        "video_share_url": "https://toffeelive.com/watch/36fa8ce3ab4e89180247473a80feb232",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/2420/logo/196x110/web_logo_882317001609410884.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/2420/logo/1600x450/poster_url_web_270991001734716796.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2020-12-31 16:33:36",
+        "lcn": 119,
+        "individual_price": "0",
+        "video_tags": "SONY SAB HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 71,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/2420/logo/1280x720/landscape_original_poster_283567001666785715.png",
+        "feature_image": "https://images.toffeelive.com/images/program/2420/logo/1080x422/feature_image_180209001609410884.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_sab_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_sab_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_sab_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 38634657,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 31,
+        "category_name": "Entertainment Channels",
+        "category_order_index": 5,
+        "patch_order_index": 5
+      }
+    ]
+  },
+  {
+    "category_name": "Movie Channels",
+    "order_id": 6,
+    "channels": [
+      {
+        "id": 641,
+        "program_name": "SONY MAX HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
+        "video_share_url": "https://toffeelive.com/watch/76e4e4d21a544140dab4b70d65982c3d",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/641/logo/196x110/web_logo_562615001571288708.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/641/logo/825x300/web_poster_357987001571288710.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-10-17 10:45:53",
+        "lcn": 104,
+        "individual_price": "0",
+        "video_tags": "SONY MAX HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 125,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/641/logo/1280x720/landscape_original_poster_595035001666782794.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:set_max_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:set_max_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:set_max_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:set_max_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "set_max_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 152378350,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 32,
+        "category_name": "Movie Channels",
+        "category_order_index": 1,
+        "patch_order_index": 6
+      },
+      {
+        "id": 352,
+        "program_name": "SONY MAX",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
+        "video_share_url": "https://toffeelive.com/watch/f27d3a53af8884b6b8cf2ecc4c747d84",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/352/logo/196x110/web_logo_035877001514286070.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/352/logo/1600x450/poster_url_web_568720001723432754.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-26 17:01:09",
+        "lcn": 108,
+        "individual_price": "0",
+        "video_tags": "SONY MAX",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 306,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/352/logo/1280x720/landscape_original_poster_250427001666783001.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_max.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_max.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_max_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_max_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_max_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 156909869,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 32,
+        "category_name": "Movie Channels",
+        "category_order_index": 2,
+        "patch_order_index": 6
+      },
+      {
+        "id": 2419,
+        "program_name": "SONY PIX HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",
+        "video_share_url": "https://toffeelive.com/watch/2ae070972f10c8ac0ad944321ce38522",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/2419/logo/196x110/web_logo_879237001609410473.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/2419/logo/1600x450/poster_url_web_721067001734835614.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2020-12-31 16:25:52",
+        "lcn": 113,
+        "individual_price": "0",
+        "video_tags": "SONY PIX HD",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 54,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/2419/logo/1280x720/landscape_original_poster_118318001666784660.png",
+        "feature_image": "https://images.toffeelive.com/images/program/2419/logo/1080x422/feature_image_174510001609410473.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_pix_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_pix_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_pix_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 52020857,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 32,
+        "category_name": "Movie Channels",
+        "category_order_index": 3,
+        "patch_order_index": 6
+      },
+      {
+        "id": 366,
+        "program_name": "B4U Movies",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
+        "video_share_url": "https://toffeelive.com/watch/4ce5660b3b6c7230d8664cca20bcdf91",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/366/logo/196x110/web_logo_921680001563626208.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/366/logo/1600x450/poster_url_web_243146001723431871.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-04-04 19:29:06",
+        "lcn": 115,
+        "individual_price": "0",
+        "video_tags": "LIVE | TOFFEE",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 29,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/images/program/366/logo/800x1200/potrait_original_poster_793558001563626475.png",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/366/logo/1280x720/landscape_original_poster_193680001663003894.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/b4u_movies/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-04/live-origin/smil:b4u_movies.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-04/live-origin/smil:b4u_movies.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "b4u_movies_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 19644198,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 32,
+        "category_name": "Movie Channels",
+        "category_order_index": 4,
+        "patch_order_index": 6
+      },
+      {
+        "id": 353,
+        "program_name": "SONY MAX 2",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
+        "video_share_url": "https://toffeelive.com/watch/3e8f38923fa5624620f9f54a2f03183f",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/353/logo/196x110/web_logo_012496001609411492.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/353/logo/825x300/web_poster_740216001609411493.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-26 17:14:15",
+        "lcn": 118,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 34,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/353/logo/1280x720/landscape_original_poster_163124001666779870.png",
+        "feature_image": "https://images.toffeelive.com/images/program/353/logo/1080x422/feature_image_158294001609411491.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_max_2.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_max_2.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_max_2_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-08/live-origin/amlst:sony_max_2_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_max_2_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher, Hindi_Channel_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 37879103,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 32,
+        "category_name": "Movie Channels",
+        "category_order_index": 5,
+        "patch_order_index": 6
+      }
+    ]
+  },
+  {
+    "category_name": "Infotainment",
+    "order_id": 7,
+    "channels": [
+      {
+        "id": 608,
+        "program_name": "TLC HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",
+        "video_share_url": "https://toffeelive.com/watch/090bfb783de4e63cd63647dd733a56cb",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/608/logo/196x110/web_logo_171169001673178876.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/608/logo/1600x450/poster_url_web_458608001709788343.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-09-16 16:08:20",
+        "lcn": 129,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 18,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/608/logo/1280x720/landscape_original_poster_074815001673178875.png",
+        "feature_image": "https://images.toffeelive.com/images/program/608/logo/1080x422/feature_image_685266001673178875.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-05/live-origin/smil:tlc_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-05/live-origin/smil:tlc_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "tlc_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 16595303,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 1,
+        "patch_order_index": 7
+      },
+      {
+        "id": 358,
+        "program_name": "TLC",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png",
+        "video_share_url": "https://toffeelive.com/watch/e12a8b6e18ee3d67dc8153f4f4713a40",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/358/logo/196x110/web_logo_804030001673178904.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/358/logo/825x300/web_poster_155942001673178906.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-26 17:20:41",
+        "lcn": 109,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 6,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/358/logo/1280x720/landscape_original_poster_914971001673178903.png",
+        "feature_image": "https://images.toffeelive.com/images/program/358/logo/1080x422/feature_image_451821001673178904.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:tlc_sd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-02/live-origin/smil:tlc_sd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "tlc_sd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 7389593,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068597&KeyName=prod_linear&Signature=Q-mOWdLMjCL9yr9_F5ZCXk1QJwkgfuqxrAUwB_hwpJU6GOf4mA1ajGY-9ftbZaKTU4Gym_PaeAldMYPA00bvAw",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 2,
+        "patch_order_index": 7
+      },
+      {
+        "id": 359,
+        "program_name": "Animal Planet",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png",
+        "video_share_url": "https://toffeelive.com/watch/52d1df7fff7b1ba3ac317b98ef2fdb80",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/359/logo/196x110/web_logo_729619001673175098.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/359/logo/825x300/web_poster_539930001673175100.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2017-12-26 17:21:51",
+        "lcn": 123,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 12,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/images/program/359/logo/800x1200/potrait_original_poster_055770001567076557.png",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/359/logo/1280x720/landscape_original_poster_579056001673175097.png",
+        "feature_image": "https://images.toffeelive.com/images/program/359/logo/1080x422/feature_image_237806001673175098.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:animal_planet_sd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-09/live-origin/smil:animal_planet_sd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "animal_planet_sd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 15044754,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 3,
+        "patch_order_index": 7
+      },
+      {
+        "id": 18096,
+        "program_name": "Animal Planet HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",
+        "video_share_url": "https://toffeelive.com/watch/f70efe81e859a5a1ef45cef66199f41d",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/18096/logo/196x110/web_logo_579632001673194615.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/18096/logo/825x300/web_poster_002279001673194617.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-01-08 22:16:54",
+        "lcn": 128,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 13,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/18096/logo/1280x720/landscape_original_poster_145709001673194615.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:animal_planet_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-08/live-origin/smil:animal_planet_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "animal_planet_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 5689866,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068643&KeyName=prod_linear&Signature=EnhdGSu4By6BtKQCNbVMgX1pFat2ChUQHRNm-N2TtCz2euaGAGNny31LhiYd8fYHDXFeUU9Tb4Kkj1tgUfPGDA",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 4,
+        "patch_order_index": 7
+      },
+      {
+        "id": 670,
+        "program_name": "SONY BBC EARTH HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png",
+        "video_share_url": "https://toffeelive.com/watch/4947c065a0a2d58f6e14bdae7242a562",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/670/logo/196x110/web_logo_422266001731242093.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/670/logo/825x300/web_poster_312345001731242095.png",
+        "description": "PHA+Jm5ic3A7Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-10-23 10:57:31",
+        "lcn": 120,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 15,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/670/logo/1280x720/landscape_original_poster_035604001731294247.png",
+        "feature_image": "https://images.toffeelive.com/images/program/670/logo/1080x422/feature_image_088445001731294163.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_bbc_earth_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:sony_bbc_earth_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_bbc_earth_hd_sd/playlist.m3u8",
+        "drm_dash_url_sd": "https://cdn-01.toffeelive.com/origin-07/live-origin/amlst:sony_bbc_earth_hd_sd/manifest.mpd",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "sony_bbc_earth_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 23011345,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "INTERNATIONAL_TV_CHANNEL",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 5,
+        "patch_order_index": 7
+      },
+      {
+        "id": 18093,
+        "program_name": "Discovery HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
+        "video_share_url": "https://toffeelive.com/watch/77e721036cc990915ec5db261f2ba472",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/18093/logo/196x110/web_logo_249844001673176592.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/18093/logo/825x300/web_poster_586123001673176593.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-01-08 17:14:45",
+        "lcn": 131,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 19,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/18093/logo/1280x720/landscape_original_poster_284826001673176591.png",
+        "feature_image": "https://images.toffeelive.com/images/program/18093/logo/1080x422/feature_image_815557001673176591.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 4518961,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068643&KeyName=prod_linear&Signature=EnhdGSu4By6BtKQCNbVMgX1pFat2ChUQHRNm-N2TtCz2euaGAGNny31LhiYd8fYHDXFeUU9Tb4Kkj1tgUfPGDA",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 6,
+        "patch_order_index": 7
+      },
+      {
+        "id": 18097,
+        "program_name": "Discovery",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
+        "video_share_url": "https://toffeelive.com/watch/751c5c61a821558a8d46727ff2210970",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/18097/logo/196x110/web_logo_310720001673195021.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/18097/logo/825x300/web_poster_661483001673195022.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-01-08 22:23:40",
+        "lcn": 105,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 24,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/18097/logo/1280x720/landscape_original_poster_759389001673195020.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_sd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_sd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_sd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 6407873,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068597&KeyName=prod_linear&Signature=Q-mOWdLMjCL9yr9_F5ZCXk1QJwkgfuqxrAUwB_hwpJU6GOf4mA1ajGY-9ftbZaKTU4Gym_PaeAldMYPA00bvAw",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 7,
+        "patch_order_index": 7
+      },
+      {
+        "id": 378,
+        "program_name": "Discovery Science",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",
+        "video_share_url": "https://toffeelive.com/watch/591ea4629824c69108d69727181b1aba",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/378/logo/196x110/web_logo_287387001673177473.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/378/logo/825x300/web_poster_650861001673177474.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-04-04 19:56:39",
+        "lcn": 134,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 15,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/378/logo/1280x720/landscape_original_poster_203578001673177472.png",
+        "feature_image": "https://images.toffeelive.com/images/program/378/logo/1080x422/feature_image_826257001673177472.png",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_science.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-07/live-origin/smil:discovery_science.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_science_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 12416187,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 8,
+        "patch_order_index": 7
+      },
+      {
+        "id": 379,
+        "program_name": "Discovery Turbo",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
+        "video_share_url": "https://toffeelive.com/watch/a051d70d672b127d4173209cfe5ade20",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/379/logo/196x110/web_logo_813577001554389158.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/379/logo/1600x450/poster_url_web_528689001693220580.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2019-04-04 19:57:07",
+        "lcn": 130,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 12,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee TV",
+        "content_provider_id": 1,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 6417137,
+        "subscriberCount": 1257,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_turbo.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_turbo.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_turbo_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 11143038,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068596&KeyName=prod_linear&Signature=J0NzwvjLP3G7FwazyLyny47QEwGuvpTsamHUByxSuz8BwV27qv3HYe4gCnwSD6GA2jGtI2yv5iU5hqfxxW_vCg",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 9,
+        "patch_order_index": 7
+      },
+      {
+        "id": 18094,
+        "program_name": "Investigation Discovery HD",
+        "url_type": 3,
+        "url_type_extended": 0,
+        "content_author": 0,
+        "channel_logo": "https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",
+        "video_share_url": "https://toffeelive.com/watch/f531595eec4533dc0a497bfec0a41d34",
+        "video_trailer_url": "",
+        "logo_web_url": "https://images.toffeelive.com/images/program/18094/logo/196x110/web_logo_931866001673178040.png",
+        "poster_url_web": "https://images.toffeelive.com/images/program/18094/logo/825x300/web_poster_416335001673178042.png",
+        "description": "PHA+Q29udGVudCBSaWdodHMgUmVzZXJ2ZWQgYnkgVE9GRkVFPC9wPg==",
+        "water_mark_url": "https://images.toffeelive.com/",
+        "type": "LIVE",
+        "created_at": "2023-01-08 17:40:39",
+        "lcn": 133,
+        "individual_price": "0",
+        "video_tags": "",
+        "duration": "00:00:00",
+        "is_horizontal": 1,
+        "is_approved": 1,
+        "age_restriction": 0,
+        "is_available": 1,
+        "service_operator_id": "0",
+        "shareCount": 1,
+        "potrait_ratio_800_1200": "https://images.toffeelive.com/",
+        "landscape_ratio_1280_720": "https://images.toffeelive.com/images/program/18094/logo/1280x720/landscape_original_poster_303748001673178040.png",
+        "feature_image": "https://images.toffeelive.com/",
+        "description_decoded": "",
+        "content_provider_name": "Toffee",
+        "content_provider_id": 11,
+        "channel_profile_url": "https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png",
+        "channel_owner_id": 594383,
+        "subscriberCount": 1040806,
+        "plain_hls_url_for_url_type": "",
+        "plain_hls_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8",
+        "hlsLinks": [
+          {
+            "hls_url_web": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8"
+          }
+        ],
+        "drm_hls_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_hls_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "drm_dash_url_extended_sd": [
+          {
+            "drm_hls_url": null
+          }
+        ],
+        "is_drm_active": 0,
+        "drm_dash_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_india_id_hd.smil/manifest.mpd",
+        "drm_hls_url": "https://cdn-01.toffeelive.com/origin-01/live-origin/smil:discovery_india_id_hd.smil/playlist.m3u8",
+        "drm_cast_receiver": "",
+        "plain_cast_receiver": "",
+        "is_ad_active": 1,
+        "drm_hls_url_sd": "",
+        "drm_dash_url_sd": "",
+        "drm_ncg_url": "",
+        "content_expire": "2040-12-31 23:59:59",
+        "content_publish": "2019-09-05 23:59:59",
+        "drm_cid": "discovery_india_id_hd_toffee",
+        "drm_pid_widevine": "",
+        "drm_pid_fairplay": "",
+        "fcm_event_name": "Whole_Live_TV_Watcher",
+        "fcm_event_is_active": 1,
+        "categoryId": null,
+        "categoryName": null,
+        "subscription": true,
+        "individual_purchase": false,
+        "viewCounts": 2972161,
+        "favorite": null,
+        "isSubscribed": null,
+        "is_ugc": 0,
+        "expireTime": "2025-01-07 01:30:43",
+        "ads_group": "default_l",
+        "sign_url_expire": "2024-12-25 01:27:53",
+        "sign_cookie_expire": "2024-12-25 01:27:53",
+        "sign_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw&Expires=1735068643&KeyName=prod_linear&Signature=EnhdGSu4By6BtKQCNbVMgX1pFat2ChUQHRNm-N2TtCz2euaGAGNny31LhiYd8fYHDXFeUU9Tb4Kkj1tgUfPGDA",
+        "sign_cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1735068473:KeyName=prod_linear:Signature=BPzLjgH4CkoFAktKznPgmlyQK1ZfPqf3n1g3zWmj1iiyYo8rHu08dpabqUYvNZycH3j6TPpI3_CIbk3_79DwCQ",
+        "cdn_type": "gcp-signed-cookie",
+        "serial_summary_id": 0,
+        "season_no": 0,
+        "pack_ids": null,
+        "category_id": 20,
+        "category_name": "Infotainment",
+        "category_order_index": 10,
+        "patch_order_index": 7
+      }
+    ]
+  }
+]
