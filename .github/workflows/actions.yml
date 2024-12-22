@@ -2,7 +2,7 @@ name: run script index.py
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '10 */4 * * *'
 
 jobs:
   build:
