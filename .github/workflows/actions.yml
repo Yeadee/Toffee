@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run index.p
+      - name: execute py script # run index.py
         env:
           TOFFEE_SECRET_KEY: ${{ secrets.TOFFEE_SECRET_KEY }}
           TOFFEE_HEADER1: ${{ secrets.TOFFEE_HEADER1 }}
