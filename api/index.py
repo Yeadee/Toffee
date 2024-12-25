@@ -45,8 +45,9 @@ def toffupdate():
             if "streamer" in channel['plain_hls_url']:
                 data['url'] = channel['plain_hls_url_for_url_type']
             all_data.append(data)
-    fulldata = {} 
-    fulldata['info'] = all_data
+    fulldata = {}
+    fulldata['channels_found'] = len(all_data)
+    fulldata['channels'] = all_data
     with open("toffee_channel_data.json","w") as w:
         json.dump(fulldata,w,indent=2)
         print(f"\n\n\t\t\t\t\t\tToffee Data loaded! version {version}")
