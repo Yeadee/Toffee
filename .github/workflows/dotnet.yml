@@ -1,0 +1,29 @@
+name: .NET Run
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 9.0.x
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build
+      run: dotnet build --no-restore
+    - name: Run
+      env:
+          TOFFEE_SECRET_KEY: ${{ secrets.TOFFEE_SECRET_KEY }}
+          TOFFEE_HEADER1: ${{ secrets.TOFFEE_HEADER1 }}
+          TOFFEE_HEADER2: ${{ secrets.TOFFEE_HEADER2 }}
+          BDPROXY: ${{ secrets.BDPROXY }}
+          TOFFEE_URL1: ${{ secrets.TOFFEE_URL1 }}
+          TOFFEE_URL2: ${{ secrets.TOFFEE_URL2 }}
+      run: dotnet run --no-build
