@@ -1,4 +1,5 @@
-import requests, re, json, base64, os
+import requests, re, json, base64, os, datetime
+from pytz import timezone
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
@@ -21,7 +22,7 @@ def toffupdate():
     try:
         dbdata = json.loads(data_decrypt(secret_key.encode(),res.text))["response"]["dbVersionV2"]
     except:
-        data={"message":"proxy not working"}
+        data={"message":"proxy not working","time":disptime}
         with open("toffee_channel_data.json","w") as w:
             json.dump(data,w,indent=2)
         return "proxy not working."
@@ -29,7 +30,7 @@ def toffupdate():
     for item in dbdata:
         if item["api_name"]=="getUgcAppHomePageContentTofeeV2":
             version = item["db_version"]
-            pass
+            break
     url2=os.environ['TOFFEE_URL2']
     api=f"{url2}{version}"
     headers={"client-api-header":os.environ['TOFFEE_HEADER2']}
@@ -41,20 +42,22 @@ def toffupdate():
     for category in categories:
         for channel in category['channels']:
             data = {}
-            data['id'],data['name'],data['logo'],data['url'],data['cookie'] = channel['id'],channel['program_name'],channel['channel_logo'],channel['plain_hls_url'],channel['sign_cookie']
+            data['id'],data['name'],data['logo'],data['link'],data['cookie'] = channel['id'],channel['program_name'],channel['channel_logo'],channel['plain_hls_url'],channel['sign_cookie']
             if "streamer" in channel['plain_hls_url']:
-                data['url'] = channel['plain_hls_url_for_url_type']
+                data['link'] = channel['plain_hls_url_for_url_type']
             all_data.append(data)
     fulldata = {}
     fulldata['channels_found'] = len(all_data)
+    fulldata["last_update"] = disptime
     fulldata['channels'] = all_data
     with open("toffee_channel_data.json","w") as w:
         json.dump(fulldata,w,indent=2)
-        print(f"\n\n\t\t\t\t\t\tToffee Data loaded! version {version}")
     return None
 
 proxy=json.loads(os.environ['BDPROXY'])
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+timenow=datetime.datetime.now(timezone("Asia/Dhaka"))
+disptime=timenow.strftime("%d-%m-%Y %I-%M-%S %p")
 toffupdate()
 
