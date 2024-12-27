@@ -42,7 +42,7 @@ def toffupdate():
     for category in categories:
         for channel in category['channels']:
             data = {}
-            data['id'],data['name'],data['logo'],data['link'],data['cookie'] = channel['id'],channel['program_name'],channel['channel_logo'],channel['plain_hls_url'],channel['sign_cookie']
+            data["category_name"],data['id'],data['name'],data['logo'],data['link'],data['cookie'],data["cookie_expire"] = channel["category_name"],channel['id'],channel['program_name'],channel['channel_logo'],channel['plain_hls_url'],channel['sign_cookie'],channel["sign_cookie_expire"]
             if "streamer" in channel['plain_hls_url']:
                 data['link'] = channel['plain_hls_url_for_url_type']
             all_data.append(data)
@@ -58,6 +58,6 @@ proxy=json.loads(os.environ['BDPROXY'])
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
 timenow=datetime.datetime.now(timezone("Asia/Dhaka"))
-disptime=timenow.strftime("%d-%m-%Y %I-%M-%S %p")
+disptime=timenow.strftime("%d-%m-%Y %I:%M:%S %p")
 toffupdate()
 
