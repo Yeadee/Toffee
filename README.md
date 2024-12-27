@@ -26,7 +26,7 @@ This project is built for educational purposes only. Following tools have been u
 
 ## How To Use
 
-Use [this](https://raw.githubusercontent.com/Yeadee/Toffee/main/toffee_channel_data.json) link for TV data.
+- Use [this](https://raw.githubusercontent.com/Yeadee/Toffee/main/toffee_channel_data.json) link for TV data.
 
 - script to obtain m3u8 information:
   ```python
