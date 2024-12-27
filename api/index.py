@@ -39,19 +39,30 @@ def toffupdate():
     #with open("toffee_raw_data.json","w") as w:
     #    json.dump(categories,w,indent=2)
     all_data=[]
+    nsdata = []
     for category in categories:
         for channel in category['channels']:
+            info = {}
             data = {}
-            data["category_name"],data['id'],data['name'],data['logo'],data['link'],data['cookie'],data["cookie_expire"] = channel["category_name"],channel['id'],channel['program_name'],channel['channel_logo'],channel['plain_hls_url'],channel['sign_cookie'],channel["sign_cookie_expire"]
+            data["category_name"] = channel.get("category_name")
+            data['id'] = channel.get('id')
+            data['name'] = info['name'] = channel.get('program_name','')
+            data['logo'] = info['logo'] = channel.get('channel_logo','')
+            data['link'] = info['link'] = channel.get('plain_hls_url','')
+            data['cookie'] = info['cookie'] = channel.get('sign_cookie','')
+            data["cookie_expire"] = channel.get("sign_cookie_expire",'')
             if "streamer" in channel['plain_hls_url']:
-                data['link'] = channel['plain_hls_url_for_url_type']
+                data['link'] = info['link'] = channel.get('plain_hls_url_for_url_type','')
             all_data.append(data)
+            nsdata.append(info)
     fulldata = {}
     fulldata['channels_found'] = len(all_data)
     fulldata["last_update"] = disptime
     fulldata['channels'] = all_data
     with open("toffee_channel_data.json","w") as w:
         json.dump(fulldata,w,indent=2)
+    with open("toffee_ns_player.m3u","w") as w:
+        json.dump(nsdata,w,indent=2)
     return None
 
 proxy=json.loads(os.environ['BDPROXY'])
