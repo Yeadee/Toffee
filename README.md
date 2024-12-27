@@ -13,16 +13,9 @@ A simple script to automatically update Toffee channels list with cookies every 
 ## Key Features
 
 - Fully open-source (except the key and api url for security purposes).
+- Premium events are also available.
 - provides ready-to-use m3u file for NS player.
 - provides data as json for developers' use.
-
-## Built With
-
-This project is built for educational purposes only. Following tools have been used.
-
-- [Python](https://www.python.org)
-- [Python](https://www.python.org)
-- [Python](https://www.python.org)
 
 ## How To Use
 
@@ -67,9 +60,15 @@ This project is built for educational purposes only. Following tools have been u
 - This script is for educational purposes only. Do not use it for any illegal activities. If the code affects the revenue of the IPTV owners, please let me know and I will delete it.
 - Please give me proper credit if you share this content. Otherwise, I will take it down.
 - Due to geo-restriction, the contents are only available in Bangladesh.
+
 ## Support
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yeadee)
+
+## QUESTIONS
+
+Questions are welcome at [https://github.com/Yeadee/Toffee/discussions](https://github.com/Yeadee/Toffee/discussions).
+This repo is also open for discussion.
 
 ## Find Me
 
