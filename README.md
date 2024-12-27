@@ -16,7 +16,7 @@ A simple script to automatically update Toffee channels list with cookies every 
 - provides ready-to-use m3u file for NS player.
 - provides data as json for developers' use.
 
-### Built With
+## Built With
 
 This project is built for educational purposes only. Following tools have been used.
 
@@ -24,7 +24,7 @@ This project is built for educational purposes only. Following tools have been u
 - [Python](https://www.python.org)
 - [Python](https://www.python.org)
 
-### How To Use
+## How To Use
 
 Use [this](https://raw.githubusercontent.com/Yeadee/Toffee/main/toffee_channel_data.json) link for TV data.
 
