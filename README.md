@@ -58,7 +58,7 @@ A simple script to automatically update Toffee channels list with cookies every 
 ## FOR IPTV PLAYBACK
 ### Android
 - Install [NS Player](https://play.google.com/store/apps/details?id=com.genuine.leone)
-- Add new Playlist with [this](https://raw.githubusercontent.com/Yeadee/Toffee/main/toffee_channel_data.json) link as URL.
+- Add new Playlist with [this](https://raw.githubusercontent.com/Yeadee/Toffee/refs/heads/main/toffee_ns_player.m3u) link as URL.
 
 ## NOTES
 
