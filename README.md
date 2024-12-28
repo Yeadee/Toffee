@@ -81,4 +81,5 @@ This repo is also open for discussion.
   </a>
 </div>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=Yeadee&repo=Toffee&countColor=%237B1E7A)
 
