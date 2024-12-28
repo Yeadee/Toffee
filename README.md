@@ -8,7 +8,14 @@
 
 ## About The Project
 
-A simple script to automatically update Toffee channels list with cookies every 4 hours.
+A simple script to automatically update Toffee channels list with cookies every 4 hours.<br />
+
+[![Yeadee - Toffee](https://img.shields.io/static/v1?label=Yeadee&message=Toffee&color=blue&logo=github)](https://github.com/Yeadee/Toffee "Go to GitHub repo")
+[![stars - Toffee](https://img.shields.io/github/stars/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
+[![forks - Toffee](https://img.shields.io/github/forks/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
+[![GitHub tag](https://img.shields.io/github/tag/Yeadee/Toffee?include_prereleases=&sort=semver&color=blue)](https://github.com/Yeadee/Toffee/releases/)
+[![issues - Toffee](https://img.shields.io/github/issues/Yeadee/Toffee)](https://github.com/Yeadee/Toffee/issues)
+
 
 ## Key Features
 
