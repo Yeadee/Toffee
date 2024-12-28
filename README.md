@@ -8,14 +8,13 @@
 
 ## About The Project
 
-A simple script to automatically update Toffee channels list with cookies every 4 hours.<br />
+A simple script to automatically update Toffee channels list with cookies every 4 hours.<br/>
 
 [![Yeadee - Toffee](https://img.shields.io/static/v1?label=Yeadee&message=Toffee&color=blue&logo=github)](https://github.com/Yeadee/Toffee "Go to GitHub repo")
-[![stars - Toffee](https://img.shields.io/github/stars/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
-[![forks - Toffee](https://img.shields.io/github/forks/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
-[![GitHub tag](https://img.shields.io/github/tag/Yeadee/Toffee?include_prereleases=&sort=semver&color=blue)](https://github.com/Yeadee/Toffee/releases/)
+[![stars - Toffee](https://img.shields.io/badge/made_with-python_3.10-blue)](https://www.python.org/)
 [![issues - Toffee](https://img.shields.io/github/issues/Yeadee/Toffee)](https://github.com/Yeadee/Toffee/issues)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeadee%2FToffee&count_bg=%23DB4E92&title_bg=%23555555&icon=symantec.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/Yeadee/Toffee)
+<br/> [![stars - Toffee](https://img.shields.io/github/stars/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
 
 ## Key Features
 
@@ -87,6 +86,3 @@ This repo is also open for discussion.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=Yeadee&repo=Toffee&countColor=%237B1E7A)
-
