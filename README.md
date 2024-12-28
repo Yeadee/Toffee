@@ -14,7 +14,7 @@ A simple script to automatically update Toffee channels list with cookies every 
 [![stars - Toffee](https://img.shields.io/badge/made_with-python_3.10-blue)](https://www.python.org/)
 [![issues - Toffee](https://img.shields.io/github/issues/Yeadee/Toffee)](https://github.com/Yeadee/Toffee/issues)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeadee%2FToffee&count_bg=%23DB4E92&title_bg=%23555555&icon=symantec.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/Yeadee/Toffee)
-<br/> [![stars - Toffee](https://img.shields.io/github/stars/Yeadee/Toffee?style=social)](https://github.com/Yeadee/Toffee)
+<br/> ![GitHub Repo stars](https://img.shields.io/github/stars/Yeadee/Toffee?link=https%3A%2F%2Fgithub.com%2FYeadee%2FToffee)
 
 ## Key Features
 
