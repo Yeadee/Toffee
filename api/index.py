@@ -18,7 +18,7 @@ def toffupdate():
         'Content-Type': mp_encoder.content_type}
     furl = os.environ['TOFFEE_URL1']
     res = requests.post(furl,data=mp_encoder,headers=fheader,proxies=proxy)
-    secret_key=os.environ['TOFFEE_SECRET_KEY']
+    secret_key = os.environ['TOFFEE_SECRET_KEY']
     try:
         dbdata = json.loads(data_decrypt(secret_key.encode(),res.text))["response"]["dbVersionV2"]
     except:
@@ -38,7 +38,7 @@ def toffupdate():
     categories=json.loads(data_decrypt(secret_key.encode(),req.text))["response"]["categories"]
     #with open("toffee_raw_data.json","w") as w:
     #    json.dump(categories,w,indent=2)
-    all_data=[]
+    all_data = []
     nsdata = []
     for category in categories:
         for channel in category['channels']:
@@ -59,16 +59,15 @@ def toffupdate():
     fulldata['channels_found'] = len(all_data)
     fulldata["last_update"] = disptime
     fulldata['channels'] = all_data
-    with open("toffee_channel_data.json","w") as w:
-        json.dump(fulldata,w,indent=2)
-    with open("toffee_ns_player.m3u","w") as w:
-        json.dump(nsdata,w,indent=2)
-    return None
+    return fulldata, nsdata
 
-proxy=json.loads(os.environ['BDPROXY'])
+proxy = json.loads(os.environ['BDPROXY'])
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
-timenow=datetime.datetime.now(timezone("Asia/Dhaka"))
-disptime=timenow.strftime("%d-%m-%Y %I:%M:%S %p")
-toffupdate()
-
+timenow = datetime.datetime.now(timezone("Asia/Dhaka"))
+disptime = timenow.strftime("%d-%m-%Y %I:%M:%S %p")
+fulldata, nsdata = toffupdate()
+with open("toffee_channel_data.json","w") as w:
+    json.dump(fulldata,w,indent=2)
+with open("toffee_ns_player.m3u","w") as w:
+    json.dump(nsdata,w,indent=2)
