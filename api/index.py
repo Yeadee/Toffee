@@ -51,7 +51,7 @@ def toffupdate():
             data['link'] = info['link'] = channel.get('plain_hls_url','')
             data['cookie'] = info['cookie'] = channel.get('sign_cookie','')
             data["cookie_expire"] = channel.get("sign_cookie_expire",'')
-            if "streamer" in channel['plain_hls_url']:
+            if not channel['plain_hls_url']:
                 data['link'] = info['link'] = channel.get('plain_hls_url_for_url_type','')
             all_data.append(data)
             nsdata.append(info)
